@@ -19,6 +19,7 @@ Map at location - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
 Has been set up to already feature two actors using the fade in/fade out.
 
 Using 'F' will Fade in the box to the left hand side.
+
 Using 'V' will Fade out the box to the left hand side.
 
 Using 'C' will toggle the fade on the box to the right.
